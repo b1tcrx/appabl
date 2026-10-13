@@ -1,0 +1,6 @@
+{
+  "name": "appabl",
+  "version": "0.1.0",
+  "description": "Build, publish and share web apps on Appabl through your Appabl connector.",
+  "author": { "name": "Appabl" }
+}

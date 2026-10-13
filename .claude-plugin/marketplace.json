@@ -1,0 +1,14 @@
+{
+  "name": "appabl",
+  "description": "Claude plugins for Appabl, the hosted apps platform.",
+  "owner": {
+    "name": "Appabl"
+  },
+  "plugins": [
+    {
+      "name": "appabl",
+      "source": "./plugins/appabl",
+      "description": "Build, publish and share web apps on Appabl through your Appabl connector."
+    }
+  ]
+}
